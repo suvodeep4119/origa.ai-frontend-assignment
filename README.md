@@ -1,3 +1,7 @@
+## Demo
+
+You can see the demo of the examples in [Stackblitz](https://stackblitz.com/github/suvodeep4119/origa.ai-frontend-assignment?file=src%2Fapp%2Fchart%2Fchart.component.ts).
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
